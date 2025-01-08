@@ -19,12 +19,12 @@ A simple and elegant notes application to jot down and manage your notes with cu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/notes-app.git
+    git clone https://github.com/yourusername/Notes-App.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd notes-app
+    cd Notes-App
     ```
 
 3. Open `index.html` in your browser to view the app.
